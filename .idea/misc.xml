@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (mlmodeltraining)" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="9708f194-126e-449b-b0bd-a6f821165145" />
   </component>
