@@ -3,8 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (mlmodeltraining)" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="9708f194-126e-449b-b0bd-a6f821165145" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="uv (mlmodeltraining)" project-jdk-type="Python SDK" />
 </project>

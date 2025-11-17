@@ -2,3 +2,4 @@ data/
 prepared_dataset/
 runs/
 training_runs/
+/yolo_dataset_fall_army_warm/
